@@ -1,0 +1,19 @@
+{
+  "name": "stefanini-teste",
+  "version": "1.0.0",
+  "description": "automacao para stefanini",
+  "main": "index.js",
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  },
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --headless --config video=true --env allure=true"
+
+  },
+  "author": "Pedro Nunes",
+  "license": "MIT"
+}

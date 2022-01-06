@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://prova.stefanini-jgr.com.br/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 9000,
+    "requestTimeout": 10000,
+    "video": true
+  }
+  
